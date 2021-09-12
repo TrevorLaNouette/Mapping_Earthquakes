@@ -6,9 +6,7 @@ body,
   padding: 0;
   margin: 0;
 }
-/*
-Add "Custom Legend Control" from https://leafletjs.com/examples/choropleth/ 
-*/
+
 .legend {
   padding: 10px;
   line-height: 18px;
